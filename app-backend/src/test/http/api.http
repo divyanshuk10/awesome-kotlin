@@ -1,0 +1,3 @@
+POST http://localhost:9566/api/login
+
+{"username":"irus","password":"awesome"}

@@ -21,3 +21,8 @@ const val commonmarkExtGfmTables = "org.commonmark:commonmark-ext-gfm-tables:$co
 private const val ktorVersion = "1.5.2"
 const val ktorClientJackson = "io.ktor:ktor-client-jackson:$ktorVersion"
 const val ktorClientApache = "io.ktor:ktor-client-apache:$ktorVersion"
+
+const val slf4jVersion = "1.7.32"
+const val logbackVersion = "1.2.5"
+const val postgresqlVersion = "42.2.23"
+const val jooqVersion = "3.15.1"
